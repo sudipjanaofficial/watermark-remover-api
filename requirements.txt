@@ -1,5 +1,6 @@
-flask
+Flask
 opencv-python-headless
 numpy
 Pillow
 gunicorn
+flask-cors
